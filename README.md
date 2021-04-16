@@ -1,1 +1,3 @@
-# minesweeper
+# Python Minesweeper
+
+My first PyGame Project.
